@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912351323612",
+    "firebase_url": "https://flash-chat-c716e.firebaseio.com",
+    "project_id": "flash-chat-c716e",
+    "storage_bucket": "flash-chat-c716e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912351323612:android:9c96f5d2a78df3cc509b19",
+        "android_client_info": {
+          "package_name": "com.preciousdamisa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912351323612-3mgijvkf0ii672efqbpa589ts67ddrh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ736xdB4HJD633fZsYNRG3XMG6-90y1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912351323612-3mgijvkf0ii672efqbpa589ts67ddrh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
